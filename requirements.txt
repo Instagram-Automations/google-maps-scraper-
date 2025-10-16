@@ -1,0 +1,5 @@
+apify
+playwright
+pydantic
+loguru
+beautifulsoup4
