@@ -1,0 +1,69 @@
+{
+  "actorSpecification": 1,
+  "actorName": "crawler-google-places",
+  "version": "0.1",
+  "buildTag": "latest",
+  "name": "Crawler Google Places",
+  "description": "Extract detailed business data from Google Maps including name, category, address, website, phone, coordinates, and more.",
+  "input": {
+    "type": "object",
+    "properties": {
+      "search": {
+        "title": "Search term or query",
+        "type": "string",
+        "description": "Keyword or business type to search for on Google Maps.",
+        "default": "restaurants in New York"
+      },
+      "max_results": {
+        "title": "Max results",
+        "type": "integer",
+        "description": "Maximum number of businesses to extract.",
+        "default": 100
+      },
+      "language": {
+        "title": "Language",
+        "type": "string",
+        "description": "Language for Google Maps interface.",
+        "default": "en"
+      },
+      "country": {
+        "title": "Country code",
+        "type": "string",
+        "description": "Two-letter country code for localized results (e.g., US, GB, DE).",
+        "default": "US"
+      },
+      "include_website_data": {
+        "title": "Scrape website contact info",
+        "type": "boolean",
+        "description": "If true, visit business websites to extract emails and phone numbers.",
+        "default": false
+      }
+    },
+    "required": ["search"]
+  },
+  "output": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "category": { "type": "string" },
+        "place_id": { "type": "string" },
+        "url": { "type": "string" },
+        "address": { "type": "string" },
+        "coordinates": {
+          "type": "object",
+          "properties": {
+            "lat": { "type": "number" },
+            "lng": { "type": "number" }
+          }
+        },
+        "phone": { "type": "string" },
+        "website": { "type": "string" },
+        "email": { "type": "string" },
+        "rating": { "type": "number" },
+        "review_count": { "type": "integer" }
+      }
+    }
+  }
+}
