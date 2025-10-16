@@ -1,0 +1,8 @@
+__pycache__/
+.apify_storage/
+.env
+.playwright/
+node_modules/
+*.pyc
+*.log
+.DS_Store
