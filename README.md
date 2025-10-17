@@ -58,7 +58,7 @@ The Google Maps Scraper is designed to automate the process of gathering valuabl
 
 <p align="center">
   <a href="https://bitbash.dev" target="_blank">
-    <img src="google-maps-scraper.png" alt="google-maps-scraper" width="90%">
+    <img src="google-maps-scraper.png" alt="google-maps-scraper" width="95%">
   </a>
 
 ## FAQs
@@ -101,3 +101,8 @@ Looking for custom software solution services? Let’s talk.
     <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://bitbash.dev" target="_blank">
+    <img src="bitbash-footer.png" alt="BITBASH Banner" width="100%">
+  </a>
