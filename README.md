@@ -1,5 +1,5 @@
 # Google Maps Scraper
-This project is designed to efficiently scrape location-based data from Google Maps, extracting information such as business names, addresses, reviews, ratings, and more. It's perfect for users needing to gather competitive insights, perform market research, or track business sentiment.
+>This project is designed to efficiently scrape location-based data from Google Maps, extracting information such as business names, addresses, reviews, ratings, and more. It's perfect for users needing to gather competitive insights, perform market research, or track business sentiment.
 
 <p align="center">
   <a href="https://bitbash.dev" target="_blank">
@@ -31,7 +31,7 @@ This project is built by Bitbash, and we've decided to open-source its basic ver
 -----------------------------------
 
 ## Introduction
-> The Google Maps Scraper is designed to automate the process of gathering valuable location-based data from Google Maps, such as business details, reviews, ratings, and contact information. This tool is ideal for businesses, marketers, and researchers looking to analyze market trends, track competitors, and gain insights from customer sentiment.
+The Google Maps Scraper is designed to automate the process of gathering valuable location-based data from Google Maps, such as business details, reviews, ratings, and contact information. This tool is ideal for businesses, marketers, and researchers looking to analyze market trends, track competitors, and gain insights from customer sentiment.
 
 ### Key Benefits
 - **Competitive Market Analysis:** Easily extract data on competitors, including business listings, customer reviews, and ratings, for better decision-making.
