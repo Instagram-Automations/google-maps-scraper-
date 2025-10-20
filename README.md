@@ -98,6 +98,6 @@ Average Performance Benchmarks:
   </a>
 </p>
 <p align="center">
-  <strong>If you are looking for custom software, Let’s Chat.👆👆</strong>
+  <strong>Looking for custom software solution services? Let’s talk.👆👆</strong>
 </p>
 
