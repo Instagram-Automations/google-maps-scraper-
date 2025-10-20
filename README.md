@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-This project is built by Bitbash, and we've decided to open-source its basic version to empower developers and foster innovation together!
+  Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
+  <strong>If you are looking for custom Google Maps scraper, you've just found your team — Let’s Chat.👆👆</strong>
 </p>
-<p align="center">
-  <strong>If you are looking for custom Google Maps scraper solution services? Let’s talk.👆👆</strong>
-</p>
+
+
 
 -----------------------------------
 
@@ -83,10 +83,6 @@ Average Performance Benchmarks:
 - **Throughput:** Collects data from 100+ businesses per session
 
 ---
-## Contact Us
-Looking for custom software solution services? Let’s talk.
-
----
 <p align="center">
   <a href="https://t.me/devpilot1" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -101,8 +97,3 @@ Looking for custom software solution services? Let’s talk.
     <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="bitbash-footer.png" alt="BITBASH Banner" width="100%">
-  </a>
